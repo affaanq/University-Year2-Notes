@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "DFYNE APP/DFYNE App.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "DFYNE App"
             }
           }
         ]
@@ -182,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 269.11328125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,6 +198,11 @@
   },
   "active": "0f7a20752d4982b1",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "2026-11-11.md",
+    "DFYNE APP/DFYNE App.md",
+    "README.md",
+    "DFYNE APP",
     "Hello world"
   ]
 }
