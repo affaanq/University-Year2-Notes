@@ -47,7 +47,7 @@ FS -->|Firestore rules| D[Tasks and completion data]
 
 ```
 
-  
+
 
 The same diagram is available in [docs/auth0-workflow.mmd](docs/auth0-workflow.mmd).
 
